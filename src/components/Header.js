@@ -1,10 +1,12 @@
 import React from 'react';
-// import Header from './';
+import "../styles/Header.css";
 
-function Header(props) {
+function Header() {
   return (
-    <h1>Title</h1>
+    <div className = "headerbar">
+      <h1>Thomas Tran - Full Stack Developer</h1>
+    </div>
   )
 }
 
-export default Header;
+export default Header
