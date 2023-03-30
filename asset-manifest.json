@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-profile/static/css/main.0a3905e6.css",
+    "main.js": "/react-profile/static/js/main.407b8377.js",
+    "static/js/787.5c467991.chunk.js": "/react-profile/static/js/787.5c467991.chunk.js",
+    "static/media/Profile.png": "/react-profile/static/media/Profile.adc682126b951a96476a.png",
+    "static/media/Thomas-Tran.pdf": "/react-profile/static/media/Thomas-Tran.3778f34a5a5680cb9f30.pdf",
+    "index.html": "/react-profile/index.html",
+    "main.0a3905e6.css.map": "/react-profile/static/css/main.0a3905e6.css.map",
+    "main.407b8377.js.map": "/react-profile/static/js/main.407b8377.js.map",
+    "787.5c467991.chunk.js.map": "/react-profile/static/js/787.5c467991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a3905e6.css",
+    "static/js/main.407b8377.js"
+  ]
+}
