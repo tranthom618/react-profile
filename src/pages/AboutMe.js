@@ -1,5 +1,6 @@
 import React from 'react'
 import "../styles/AboutMe.css";
+import ProfilePic from "../Profile.png";
 
 function AboutMe() {
   return (
@@ -9,6 +10,7 @@ function AboutMe() {
         <div className = "shortbio">A new full stack developer, trying to learn everything there is to coding!</div>
       </div>
       <div className = "skills">
+      <img src={ProfilePic} alt="ProfilePicture" /><span>I'm a brand new full stack developer, currently in the early stages of learning the rope to coding! Here, you'll see my journey as I gain more practice and experience to hopefully one day get an opportunity to have this as a career!</span>
         <h1>Skills</h1>
         <ol className= "list">
           <li className = "item">

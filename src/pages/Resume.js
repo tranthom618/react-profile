@@ -10,9 +10,9 @@ function Resume() {
           Download Resume
         </a>
       </button>
-      <h2>Front-End</h2>
+      <h2>Front-End Skills</h2>
       <span>ReactJS, HTML, CSS, NPM, BootStrap, MaterialUI, TailwindCSS</span>
-      <h2>Back-End</h2>
+      <h2>Back-End Skills</h2>
       <span>NodeJS, JavaScript, ExpressJS, GraphQL, ApolloServer, MySQL, MongoDB</span>
     </div>
   );
