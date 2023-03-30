@@ -6,7 +6,7 @@ function AboutMe() {
     <div className = "home">
       <div className = "about">
         <h2> Hello! I'm Thomas!</h2>
-        <div className = "prompt">A new full stack developer, trying to learn everything there is to coding!</div>
+        <div className = "shortbio">A new full stack developer, trying to learn everything there is to coding!</div>
       </div>
       <div className = "skills">
         <h1>Skills</h1>
