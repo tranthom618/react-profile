@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# react-profile
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## License
 
-## Available Scripts
+![MIT License](https://img.shields.io/badge/License-MIT-red.svg)
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+My first major React project is a portfolio page that displays my full-stack development career and skillset.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Hosted Site](#Hosted)
+- [Questions](#questions)
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+My react profile is deployed on Github Pages at https://tranthom618.github.io/react-profile/. However the deployed Github page requires some additional work and debugging.
 
-### `npm run build`
+You should download the contents of this repository, then save or unzip them into a single folder. Using Visual Studio Code, you can open that folder. Using the terminal, ensure the directory is in the root of the app folder. Then type "npm install", followed by "npm start" . You will be able to view my properly functioning profile on a browser at the url "http://localhost:3000/" by default, or the appropriate port you have designated. You can also install the app using the button located in the top left of the page from your local host.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+My react profile has a navigation bar that leads to different pages appropriately titled. Each page describes myself, my project portfolio, my contact information and my resume.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Preview of Profile](/public/readme-instructional.png?raw=true "README Instructions")
 
-### `npm run eject`
+## Credits
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Code snippets provided from University of Toronto - School of Continuing Studies - Coding Bootcamp. Sections of code were pieced together from in-class schoolwork activities and projects.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Tutorial for base React profile site along with CSS inspiration/how-to's: https://www.youtube.com/watch?v=x7mwVn2z3Sk
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+MIT License - See LICENSE file contained within directory for more details.
 
-## Learn More
+## Hosted
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Github Pages Deployed Site: https://tranthom618.github.io/react-profile/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Questions
 
-### Code Splitting
+GitHub Contact: [github.com/tranthom618](https://www.github.com/tranthom618)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Email Contact: [thomas.tran2311@gmail.com]
